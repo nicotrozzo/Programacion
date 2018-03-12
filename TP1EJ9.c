@@ -3,8 +3,6 @@ GRUPO 4
 TP1EJ9 
 */
 
-
-
 #include <stdio.h>
 
 
